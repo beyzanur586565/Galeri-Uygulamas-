@@ -1,2 +1,2 @@
-# Galeri-Uygulamsı-
+# Galeri-Uygulaması-
 Görev3
