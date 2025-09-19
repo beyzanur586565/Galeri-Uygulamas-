@@ -1,0 +1,2 @@
+# Galeri-Uygulams-
+Görev3
